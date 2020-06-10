@@ -1,4 +1,4 @@
-# Python_Programming
+#codewayy_python_series
 
 Hello,
 My name is Ridhima. I am currently pursuing my Btech in CSE from DIT University.
