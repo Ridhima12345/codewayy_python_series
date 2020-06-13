@@ -27,15 +27,15 @@ print(mergedSet)
 
 #intersection() returns all the commmon value between 2 sets
 
-set1 = {1,2,3,4,5}
-set2 = {3,4,7,8,9}
-print("\nIntersection between 2 sets will  be :- ",set1.intersection(set2))
+setNew = {1,2,3,4,5}
+setOld = {3,4,7,8,9}
+print("\nIntersection between 2 sets will  be :- ",setNew.intersection(setOld))
 
 #difference() removes the common elements from the first set and returns it
 
-set1 = {1,2,3,4,5}
-set2 = {3,4,7,8,9}
-print("\nDifference between 2 sets will  be :- ",set1.difference(set2))
+setNew = {1,2,3,4,5}
+setOld = {3,4,7,8,9}
+print("\nDifference between 2 sets will  be :- ",setNew.difference(setOld))
 
 #clear() empties the set
 
