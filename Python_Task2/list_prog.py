@@ -1,4 +1,4 @@
-list = []
+markList = []
 print("Enter the marks of different subjects you stored in 12th\n")
 for i in range(0,5):
     marks = int(input())
@@ -6,7 +6,7 @@ for i in range(0,5):
     #append() adds the elements to the existing/new list
 
     list.append(marks)
-print(list)
+print(markList)
 
 marks1 = int(input("Enter the marks of 6th subject\n"))
 
