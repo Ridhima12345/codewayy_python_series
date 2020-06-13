@@ -27,20 +27,20 @@ for index,friend in enumerate(friends):
 
 #Initialize another tuple
 
-tuple3 = (85,56,48,99,42)
+marks = (85,56,48,99,42)
 
 #min() finds the minimum element
 
-print("The minimum value:- ",min(tuple3))
+print("The minimum value:- ",min(marks))
 
 #max() finds the minimum element
 
-print("The maximum value:- ",max(tuple3))
+print("The maximum value:- ",max(marks))
 
 #del() deletes the whole tuple
 
-del(tuple3)
-print(tuple3)
+del(marks)
+print(marks)
 
 
     
