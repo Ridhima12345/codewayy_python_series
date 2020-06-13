@@ -33,8 +33,9 @@ Application of dictionaries with a real world example.
 
 Example of a dictionary.
 
-If I am working to analyze a bunch of stats for a sports team. 
+1)If I am working to analyze a bunch of stats for a sports team. 
 All the data is entered by the players numbers. 
-So I query the roster (via AJAX or a database) and store it in playerName = {}.
-Now if I want to present to the user the name of the person, who has an 76% success rate, 
-and I have his playerNum = 87 I can output his name with the dictionary playerName[playerNum]
+I can find the details of the player using player number.
+
+2) A dictionary that we use to find meaning of words.
+The word can be the key and meaning will be the value.
