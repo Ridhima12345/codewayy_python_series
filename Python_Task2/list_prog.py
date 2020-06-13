@@ -15,11 +15,11 @@ marks1 = int(input("Enter the marks of 6th subject\n"))
 list.insert(2,marks1)
 print(list)
 
-list2 = ["Maths","Chem","Social","English","Hindi","GK"]
+subjectList = ["Maths","Chem","Social","English","Hindi","GK"]
 
 #extend() add contents of the later list to the previous one
 
-list.extend(list2)
+list.extend(subjectList)
 print("Extended list\n",list)
 
 marks = [90,45,56,87,12,82]
@@ -32,7 +32,7 @@ print(sum(marks))
 #length() calculates total length of the list
 
 print("Length of the list:")
-print(len(list2))
+print(len(subjectList))
 
 #min() calculates minimum of all the elements
 
