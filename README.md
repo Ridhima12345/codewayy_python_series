@@ -21,3 +21,9 @@ I am currently learning Python and this series will contain all my python progra
   a) Why is list used?
   b) Difference between list and set
   c) Application of dictionary
+
+## TASK3
+
+1) Using function to return value
+2) Length of string
+3) Using continue
